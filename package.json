@@ -10,7 +10,7 @@
     "test:watch": "jest --watch"
   },
   "keywords": ["gaming", "api", "rest", "jwt", "mvc"],
-  "author": "Votre Nom",
+  "author": "Pervin Eren - B3 DEV1",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
