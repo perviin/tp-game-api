@@ -648,7 +648,7 @@ Pour utiliser les routes protégées dans Swagger :
 
   - 🔗 [GitHub](https://github.com/perviin)
 
-**Encadrant :** Milo ROCHER
+**Encadrant :** Milo ROCHE
 **Formation :** Bachelor DEV3 DEV1 - EFREI  
 **Date :** 14/11/2025
 
